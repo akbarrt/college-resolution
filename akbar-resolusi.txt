@@ -1,0 +1,2 @@
+Consistent to always make a new repository on github
+Can make something in Java Languange 
