@@ -1,2 +1,6 @@
-Consistent to always make a new repository on github
+AKBAR-RESOLUTION
+
+Consist to always make a new repository on github
 Can make something in Java Languange 
+Make a website Portfolio
+Collab with an Expert IT 
